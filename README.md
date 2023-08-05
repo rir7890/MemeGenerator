@@ -1,4 +1,8 @@
-# cof14433a9489670c21bb9451
+# meme generator using React
+
+![image](https://github.com/rir7890/MemeGenerator/assets/98277620/19c17e78-251d-48fd-aa00-6ac5e8aa01ca)
+
+
 
 Quick start:
 
